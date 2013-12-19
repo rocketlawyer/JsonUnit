@@ -1,3 +1,11 @@
-target
+target/
 .idea
 *.iml
+.classpath
+.project
+.settings/
+.springBeans
+.DS_Store
+.cache
+*.jpage
+
